@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Basic Compose</string>
+    <string name="basic_compose">Hello from Basic Compose!</string>
+</resources>
